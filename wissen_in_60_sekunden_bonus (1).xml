@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0"
+  xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd"
+  xmlns:podcast="https://podcastindex.org/namespace/1.0"
+  xmlns:atom="http://www.w3.org/2005/Atom"
+  xmlns:content="http://purl.org/rss/1.0/modules/content/"
+>
+<channel>
+  <title>Wissen in 60 Sekunden Bonus</title>
+  <description><![CDATA[<a href="https://hyperfollow.com/wissen60">https://hyperfollow.com/wissen60</a><br></br><br></br><b>Dieser Podcast wurde von einem privaten Anbieter Gehostet.</b><b><br></br></b><b><br></br></b>]]></description>
+  <link>hyperfollow.com/wissen60</link>
+  <language>de-de</language>
+  <generator>WissensMinuten</generator>
+  <copyright>WissensMinuten</copyright>
+  <pubDate>Thu, 19 Nov 2026 19:02:49 +0100</pubDate>
+  <lastBuildDate>Thu, 19 Nov 2026 19:07:55 +0100</lastBuildDate>
+  <category>Education</category>
+  <image>
+    <url>https://cdn.phototourl.com/anon/2026-11-19-1fbf728b-d2e0-4a27-99bd-b2eec661f0ce.png</url>
+    <title>WissensMinuten</title>
+    <link>https://cdn.phototourl.com/anon/2026-11-19-1fbf728b-d2e0-4a27-99bd-b2eec661f0ce.png</link>
+    <description>WissensMinuten media private</description>
+    <width>1254</width>
+    <height>1254</height>
+  </image>
+  <itunes:image href="https://cdn.phototourl.com/anon/2026-11-19-1fbf728b-d2e0-4a27-99bd-b2eec661f0ce.png" />
+  <itunes:author>WissensMinuten</itunes:author>
+  <itunes:explicit>no</itunes:explicit>
+  <itunes:type>episodic</itunes:type>
+  <itunes:summary><![CDATA[<a href="https://hyperfollow.com/wissen60">https://hyperfollow.com/wissen60</a><br></br><br></br><b>Dieser Podcast wurde von einem privaten Anbieter Gehostet.</b><b><br></br></b><b><br></br></b>]]></itunes:summary>
+  <itunes:category text="Education">
+    <itunes:category text="Courses" />
+  </itunes:category>
+  <itunes:owner>
+    <itunes:email>oplus.mail99@gmail.com</itunes:email>
+    <itunes:name>WissensMinuten</itunes:name>
+  </itunes:owner>
+  <podcast:medium>podcast</podcast:medium>
+  <podcast:guid>c74045ac-91b8-43f0-be8e-e82a68e73b9d</podcast:guid>
+  <podcast:complete>yes</podcast:complete>
+  <podcast:person img="https://cdn.phototourl.com/anon/2026-11-19-c36f0dae-8989-43e5-a8f0-0067c19fe075.png" group="cast" role="host">marina deteris</podcast:person>
+  <podcast:person img="https://cdn.phototourl.com/anon/2026-11-19-a6a090e0-51aa-47af-a2fe-11d769dfe6e5.png" group="cast" role="host">jonas paul bernados</podcast:person>
+  <podcast:publisher>
+    <podcast:remoteItem medium="podcast" feedUrl="https://hyperfollow.com/wissen60" />
+  </podcast:publisher>
+  <item>
+    <title>Hatten Dinosaurier federn?</title>
+    <description>&lt;b&gt;Bonus folge&lt;/b&gt;</description>
+    <link>https://hyperfollow.com/wissen60</link>
+    <pubDate>Thu, 19 Nov 2026 19:02:49 +0100</pubDate>
+    <enclosure url="https://mp3tourl.online/a/ZWhcKalaNvzCIX7hqB" length="73094" type="audio/mpeg" />
+    <guid isPermaLink="false">13dbcba5-0d87-479b-b871-5bb15e42cdc9</guid>
+    <itunes:summary><![CDATA[<b>Bonus folge</b>]]></itunes:summary>
+    <itunes:season>1</itunes:season>
+    <itunes:episode>1</itunes:episode>
+    <itunes:explicit>no</itunes:explicit>
+    <itunes:duration>00:01:12</itunes:duration>
+    <podcast:person img="https://cdn.phototourl.com/anon/2026-11-19-c36f0dae-8989-43e5-a8f0-0067c19fe075.png" group="cast" role="host">marina deteris</podcast:person>
+    <podcast:person img="https://cdn.phototourl.com/anon/2026-11-19-a6a090e0-51aa-47af-a2fe-11d769dfe6e5.png" group="cast" role="host">jonas paul bernados</podcast:person>
+    <podcast:episodeType>full</podcast:episodeType>
+    <podcast:season>1</podcast:season>
+    <podcast:episode>1</podcast:episode>
+  </item>
+</channel>
+</rss>
